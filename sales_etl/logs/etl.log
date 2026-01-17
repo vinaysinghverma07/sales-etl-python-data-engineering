@@ -1,0 +1,237 @@
+2025-12-22 19:43:43,752 - INFO - SalesETL - Logging system initialized successfully
+2025-12-23 22:18:55,967 - INFO - SalesETL - Starting data extraction step
+2025-12-23 22:18:55,967 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2025-12-23 22:18:55,981 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2025-12-23 22:25:46,383 - INFO - SalesETL - Logging system initialized successfully
+2025-12-27 17:26:07,144 - INFO - SalesETL - Logging system initialized successfully
+2025-12-27 17:38:45,000 - INFO - SalesETL - Starting data extraction step
+2025-12-27 17:38:45,000 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2025-12-27 17:38:45,020 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2025-12-27 19:20:43,410 - INFO - SalesETL - Starting data extraction step
+2025-12-27 19:20:43,433 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2025-12-27 19:20:43,452 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2025-12-29 17:49:59,722 - INFO - SalesETL - Starting data extraction step
+2025-12-29 17:49:59,746 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2025-12-29 17:49:59,755 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2025-12-29 17:50:54,954 - INFO - SalesETL - Starting data extraction step
+2025-12-29 17:50:54,954 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2025-12-29 17:50:54,957 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2025-12-29 17:51:02,447 - INFO - SalesETL - Starting data extraction step
+2025-12-29 17:51:02,448 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2025-12-29 17:51:02,452 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2025-12-29 17:51:24,136 - INFO - SalesETL - Starting data extraction step
+2025-12-29 17:51:24,136 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2025-12-29 17:51:24,139 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2026-01-07 18:42:58,446 - INFO - SalesETL - Starting data extraction step
+2026-01-07 18:42:58,449 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-07 18:42:58,491 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2026-01-07 18:42:58,493 - INFO - SalesETL - Starting data transformation step
+2026-01-07 18:43:09,427 - INFO - SalesETL - Starting data extraction step
+2026-01-07 18:43:09,428 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-07 18:43:09,431 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2026-01-07 18:43:09,433 - INFO - SalesETL - Starting data transformation step
+2026-01-07 18:43:52,750 - INFO - SalesETL - Starting data extraction step
+2026-01-07 18:43:52,771 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-07 18:43:52,798 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2026-01-07 18:44:44,469 - INFO - SalesETL - Starting data extraction step
+2026-01-07 18:44:44,525 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-07 18:44:44,562 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2026-01-07 18:44:44,564 - INFO - SalesETL - Starting data transformation step
+2026-01-07 18:45:00,621 - INFO - SalesETL - Starting data extraction step
+2026-01-07 18:45:00,622 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-07 18:45:00,625 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2026-01-07 18:45:00,627 - INFO - SalesETL - Starting data transformation step
+2026-01-07 18:55:33,258 - INFO - SalesETL - Starting data extraction step
+2026-01-07 18:55:33,262 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-07 18:55:33,282 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2026-01-07 18:55:33,284 - INFO - SalesETL - Starting data transformation step
+2026-01-07 19:43:32,951 - INFO - SalesETL - Starting data extraction step
+2026-01-07 19:43:32,953 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-07 19:43:32,970 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2026-01-07 19:43:32,971 - INFO - SalesETL - Starting data transformation step
+2026-01-07 19:43:55,740 - INFO - SalesETL - Starting data extraction step
+2026-01-07 19:43:55,742 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-07 19:43:55,749 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2026-01-07 19:43:55,754 - INFO - SalesETL - Starting data transformation step
+2026-01-07 19:45:33,186 - INFO - SalesETL - Starting data extraction step
+2026-01-07 19:45:33,187 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-07 19:45:33,190 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2026-01-07 19:45:33,192 - INFO - SalesETL - Starting data transformation step
+2026-01-08 20:05:21,796 - INFO - SalesETL - Starting data extraction step
+2026-01-08 20:05:21,799 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-08 20:05:21,814 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2026-01-08 20:05:21,817 - INFO - SalesETL - Starting data transformation step
+2026-01-08 20:08:43,028 - INFO - SalesETL - Starting data extraction step
+2026-01-08 20:08:43,030 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-08 20:08:43,051 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2026-01-08 20:08:43,056 - INFO - SalesETL - Starting data transformation step
+2026-01-08 20:08:53,783 - INFO - SalesETL - Starting data extraction step
+2026-01-08 20:08:53,784 - INFO - SalesETL - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-08 20:08:53,790 - INFO - SalesETL - Successfully extracted data | Rows: 5 | Columns: 1
+2026-01-08 20:35:21,719 - INFO - root - Starting data extraction step
+2026-01-08 20:35:21,761 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-08 20:35:21,779 - INFO - root - Extracted columns: ['order_id,order_date,customer_id,product,quantity,price']
+2026-01-08 20:35:21,779 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 1
+2026-01-08 20:35:21,779 - ERROR - root - CSV schema mismatch detected
+2026-01-08 20:35:21,779 - ERROR - root - Unexpected error during data extraction: Expected columns {'product', 'order_date', 'price', 'customer_id', 'order_id', 'quantity'}, but got {'order_id,order_date,customer_id,product,quantity,price'}
+2026-01-09 09:59:01,803 - INFO - root - Starting data extraction step
+2026-01-09 09:59:01,826 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-09 09:59:01,838 - INFO - root - Extracted columns: ['order_id,order_date,customer_id,product,quantity,price']
+2026-01-09 09:59:01,838 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 1
+2026-01-09 09:59:01,839 - ERROR - root - CSV schema mismatch detected
+2026-01-09 09:59:01,839 - ERROR - root - Unexpected error during data extraction: Expected columns {'customer_id', 'quantity', 'order_date', 'price', 'product', 'order_id'}, but got {'order_id,order_date,customer_id,product,quantity,price'}
+2026-01-09 16:41:46,634 - INFO - root - Starting data extraction step
+2026-01-09 16:41:46,636 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-09 16:41:46,653 - ERROR - root - Unexpected error during data extraction: UTF-16 stream does not start with BOM
+2026-01-09 16:43:36,968 - INFO - root - Starting data extraction step
+2026-01-09 16:43:36,969 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-09 16:43:37,017 - INFO - root - Extracted columns: ['order_id,order_date,customer_id,product,quantity,price']
+2026-01-09 16:43:37,017 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 1
+2026-01-09 16:43:37,017 - ERROR - root - CSV schema mismatch detected
+2026-01-09 16:43:37,017 - ERROR - root - Unexpected error during data extraction: Expected columns {'quantity', 'product', 'customer_id', 'price', 'order_id', 'order_date'}, but got {'order_id,order_date,customer_id,product,quantity,price'}
+2026-01-09 16:49:40,216 - INFO - root - Starting data extraction step
+2026-01-09 16:49:40,218 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-09 16:49:40,279 - INFO - root - Extracted columns: ['order_id,order_date,customer_id,product,quantity,price', 'Unnamed: 1']
+2026-01-09 16:49:40,279 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 2
+2026-01-09 16:49:40,280 - ERROR - root - CSV schema mismatch detected
+2026-01-09 16:49:40,280 - ERROR - root - Unexpected error during data extraction: Expected columns {'price', 'product', 'order_date', 'customer_id', 'quantity', 'order_id'}, but got {'Unnamed: 1', 'order_id,order_date,customer_id,product,quantity,price'}
+2026-01-09 16:50:15,526 - INFO - root - Starting data extraction step
+2026-01-09 16:50:15,528 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-09 16:50:15,548 - INFO - root - Extracted columns: ['order_id,order_date,customer_id,product,quantity,price', 'Unnamed: 1']
+2026-01-09 16:50:15,549 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 2
+2026-01-09 16:50:15,549 - ERROR - root - CSV schema mismatch detected
+2026-01-09 16:50:15,549 - ERROR - root - Unexpected error during data extraction: Expected columns {'order_date', 'order_id', 'price', 'product', 'quantity', 'customer_id'}, but got {'order_id,order_date,customer_id,product,quantity,price', 'Unnamed: 1'}
+2026-01-09 16:56:36,786 - INFO - root - Starting data extraction step
+2026-01-09 16:56:36,787 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-09 16:56:36,833 - WARNING - root - Detected malformed CSV header. Attempting to normalize columns.
+2026-01-09 16:56:36,834 - ERROR - root - Unexpected error during data extraction: Length mismatch: Expected axis has 2 elements, new values have 6 elements
+2026-01-09 16:59:13,894 - INFO - root - Starting data extraction step
+2026-01-09 16:59:13,895 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-09 16:59:13,918 - WARNING - root - Detected malformed CSV structure. Normalizing columns and data.
+2026-01-09 16:59:13,927 - INFO - root - Corrected columns after normalization: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-09 16:59:13,927 - INFO - root - Extracted columns: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-09 16:59:13,927 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 6
+2026-01-09 18:59:37,112 - INFO - root - Starting data extraction step
+2026-01-09 18:59:37,286 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-09 19:06:00,659 - INFO - root - Starting data extraction step
+2026-01-09 19:06:00,683 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-09 19:10:46,940 - WARNING - root - Detected malformed CSV structure. Normalizing columns and data.
+2026-01-09 19:13:07,740 - INFO - root - Corrected columns after normalization: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-09 19:13:15,837 - INFO - root - Extracted columns: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-09 19:18:22,557 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 6
+2026-01-09 19:20:28,271 - INFO - root - Starting data extraction step
+2026-01-09 19:20:28,272 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-09 19:20:28,294 - WARNING - root - Detected malformed CSV structure. Normalizing columns and data.
+2026-01-09 19:20:28,306 - INFO - root - Corrected columns after normalization: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-09 19:20:28,306 - INFO - root - Extracted columns: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-09 19:20:28,306 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 6
+2026-01-09 19:20:49,725 - INFO - root - Starting data extraction step
+2026-01-09 19:20:49,726 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-09 19:20:49,732 - WARNING - root - Detected malformed CSV structure. Normalizing columns and data.
+2026-01-09 19:20:49,733 - INFO - root - Corrected columns after normalization: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-09 19:20:49,733 - INFO - root - Extracted columns: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-09 19:20:49,733 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 6
+2026-01-09 19:25:23,809 - INFO - root - Starting data extraction step
+2026-01-09 19:25:23,831 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-09 19:25:23,875 - WARNING - root - Detected malformed CSV structure. Normalizing columns and data.
+2026-01-09 19:25:23,893 - INFO - root - Corrected columns after normalization: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-09 19:25:23,893 - INFO - root - Extracted columns: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-09 19:25:23,893 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 6
+2026-01-09 19:28:31,445 - INFO - root - Starting data extraction step
+2026-01-09 19:28:31,473 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-09 19:28:31,511 - WARNING - root - Detected malformed CSV structure. Normalizing columns and data.
+2026-01-09 19:28:31,520 - INFO - root - Corrected columns after normalization: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-09 19:28:31,521 - INFO - root - Extracted columns: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-09 19:28:31,521 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 6
+2026-01-09 19:45:45,049 - INFO - root - Starting data extraction step
+2026-01-09 20:00:06,280 - INFO - root - Starting data extraction step
+2026-01-09 20:00:06,281 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-09 20:00:06,350 - WARNING - root - Detected malformed CSV structure. Normalizing columns and data.
+2026-01-09 20:00:06,361 - INFO - root - Corrected columns after normalization: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-09 20:00:06,362 - INFO - root - Extracted columns: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-09 20:00:06,362 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 6
+2026-01-09 20:00:06,362 - INFO - root - Starting data transformation step
+2026-01-09 20:00:06,368 - INFO - root - Missing values in 'quantity' filled with 1
+2026-01-09 20:06:23,928 - INFO - root - Starting data extraction step
+2026-01-09 20:06:23,929 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-09 20:06:23,952 - WARNING - root - Detected malformed CSV structure. Normalizing columns and data.
+2026-01-09 20:06:23,963 - INFO - root - Corrected columns after normalization: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-09 20:06:23,963 - INFO - root - Extracted columns: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-09 20:06:23,963 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 6
+2026-01-09 20:06:23,963 - INFO - root - Starting data transformation step
+2026-01-09 20:06:23,965 - INFO - root - Missing values in 'quantity' filled with 1
+2026-01-09 20:06:23,973 - INFO - root - Data type conversions completed
+2026-01-09 20:06:23,981 - INFO - root - Removed 1 duplicate rows
+2026-01-09 20:06:23,984 - INFO - root - Revenue column created
+2026-01-09 20:06:23,985 - INFO - root - Data transformation completed successfully
+2026-01-12 17:09:59,405 - INFO - root - Starting data extraction step
+2026-01-12 17:09:59,662 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-12 17:09:59,845 - WARNING - root - Detected malformed CSV structure. Normalizing columns and data.
+2026-01-12 17:09:59,852 - INFO - root - Corrected columns after normalization: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-12 17:09:59,852 - INFO - root - Extracted columns: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-12 17:09:59,852 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 6
+2026-01-12 17:09:59,853 - INFO - root - Starting data transformation step
+2026-01-12 17:09:59,862 - INFO - root - Missing values in 'quantity' filled with 1
+2026-01-12 17:09:59,871 - INFO - root - Data type conversions completed
+2026-01-12 17:09:59,897 - INFO - root - Removed 1 duplicate rows based on order id, which is 4
+2026-01-12 17:09:59,914 - INFO - root - Revenue column created
+2026-01-12 17:09:59,915 - INFO - root - Data transformation completed successfully
+2026-01-12 17:53:55,555 - INFO - root - Starting data extraction step
+2026-01-12 17:53:55,556 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-12 17:53:55,581 - WARNING - root - Detected malformed CSV structure. Normalizing columns and data.
+2026-01-12 17:53:55,589 - INFO - root - Corrected columns after normalization: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-12 17:53:55,589 - INFO - root - Extracted columns: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-12 17:53:55,589 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 6
+2026-01-12 17:53:55,589 - INFO - root - Starting data transformation step
+2026-01-12 17:53:55,597 - INFO - root - Missing values in 'quantity' filled with 1
+2026-01-12 17:53:55,611 - INFO - root - Data type conversions completed
+2026-01-12 17:53:55,622 - INFO - root - Removed 1 duplicate rows based on order id, which is 4
+2026-01-12 17:53:55,628 - INFO - root - Revenue column created
+2026-01-12 17:53:55,628 - INFO - root - Data transformation completed successfully
+2026-01-12 17:53:55,628 - INFO - root - Starting data load step
+2026-01-12 17:55:32,102 - INFO - root - Starting data extraction step
+2026-01-12 17:55:32,103 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-12 17:55:32,128 - WARNING - root - Detected malformed CSV structure. Normalizing columns and data.
+2026-01-12 17:55:32,140 - INFO - root - Corrected columns after normalization: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-12 17:55:32,141 - INFO - root - Extracted columns: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-12 17:55:32,141 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 6
+2026-01-12 17:55:32,141 - INFO - root - Starting data transformation step
+2026-01-12 17:55:32,143 - INFO - root - Missing values in 'quantity' filled with 1
+2026-01-12 17:55:32,160 - INFO - root - Data type conversions completed
+2026-01-12 17:55:32,174 - INFO - root - Removed 1 duplicate rows based on order id, which is 4
+2026-01-12 17:55:32,176 - INFO - root - Revenue column created
+2026-01-12 17:55:32,176 - INFO - root - Data transformation completed successfully
+2026-01-12 17:55:32,176 - INFO - root - Starting data load step
+2026-01-12 17:55:32,176 - ERROR - root - Cannot load empty DataFrame
+2026-01-12 17:56:09,003 - INFO - root - Starting data extraction step
+2026-01-12 17:56:09,004 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-12 17:56:09,010 - WARNING - root - Detected malformed CSV structure. Normalizing columns and data.
+2026-01-12 17:56:09,011 - INFO - root - Corrected columns after normalization: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-12 17:56:09,012 - INFO - root - Extracted columns: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-12 17:56:09,012 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 6
+2026-01-12 17:56:09,012 - INFO - root - Starting data transformation step
+2026-01-12 17:56:09,013 - INFO - root - Missing values in 'quantity' filled with 1
+2026-01-12 17:56:09,016 - INFO - root - Data type conversions completed
+2026-01-12 17:56:09,017 - INFO - root - Removed 1 duplicate rows based on order id, which is 4
+2026-01-12 17:56:09,018 - INFO - root - Revenue column created
+2026-01-12 17:56:09,019 - INFO - root - Data transformation completed successfully
+2026-01-12 17:56:09,019 - INFO - root - Starting data load step
+2026-01-12 17:56:09,019 - INFO - root - Final schema validation passed
+2026-01-12 17:56:09,020 - INFO - root - Resolved output path: E:\yourpathto-loggingfile-\sales_etl\data\processed
+2026-01-12 18:07:15,020 - INFO - root - Starting data extraction step
+2026-01-12 18:07:15,021 - INFO - root - Raw data path resolved to: E:\yourpathto-loggingfile-\sales_etl\data\raw\sales_data.csv
+2026-01-12 18:07:15,054 - WARNING - root - Detected malformed CSV structure. Normalizing columns and data.
+2026-01-12 18:07:15,066 - INFO - root - Corrected columns after normalization: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-12 18:07:15,066 - INFO - root - Extracted columns: ['order_id', 'order_date', 'customer_id', 'product', 'quantity', 'price']
+2026-01-12 18:07:15,066 - INFO - root - Successfully extracted data | Rows: 5 | Columns: 6
+2026-01-12 18:07:15,066 - INFO - root - Starting data transformation step
+2026-01-12 18:07:15,070 - INFO - root - Missing values in 'quantity' filled with 1
+2026-01-12 18:07:15,082 - INFO - root - Data type conversions completed
+2026-01-12 18:07:15,096 - INFO - root - Removed 1 duplicate rows based on order id, which is 4
+2026-01-12 18:07:15,098 - INFO - root - Revenue column created
+2026-01-12 18:07:15,099 - INFO - root - Data transformation completed successfully
+2026-01-12 18:07:15,099 - INFO - root - Starting data load step
+2026-01-12 18:07:15,099 - INFO - root - Final schema validation passed
+2026-01-12 18:07:15,102 - INFO - root - Resolved output path: E:\yourpathto-loggingfile-\sales_etl\data\processed
+2026-01-12 18:07:15,112 - INFO - root - Data successfully written and loaded to E:\yourpathto-loggingfile-\sales_etl\data\processed\sales_processed_20260112_180715.csv with Rows: 4 | Columns: 7
+2026-01-12 18:07:15,113 - INFO - root - Data load step completed successfully

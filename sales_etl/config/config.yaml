@@ -1,0 +1,6 @@
+raw_data_path: data/raw/sales_data.csv
+processed_data_path: data/processed/
+log_file_path: logs/etl.log
+
+logging:
+  level: INFO
