@@ -249,3 +249,9 @@ python src/testig.py
 - Data quality checks
 - Airflow / ADF orchestration
 - Databricks PySpark migration
+
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/vinaysinghverma07/sales-etl-python-data-engineering.git
+
